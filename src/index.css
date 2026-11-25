@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;550;600;650;700;800;900&display=swap');
+@import 'tailwindcss';
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --breakpoint-md: 50rem;
+}
+@keyframes arrive {
+  from { transform: translateY(8px); }
+  to { transform: translateY(0); }
+}
+@keyframes veil {
+  from { backdrop-filter: blur(0); }
+  to { backdrop-filter: blur(4px); }
+}

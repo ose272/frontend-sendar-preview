@@ -1,0 +1,10 @@
+{
+  "description": "Manage multi-account email outreach, track campaign performance, and handle prospect replies in one secure workspace for sales and growth teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
